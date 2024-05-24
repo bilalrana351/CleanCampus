@@ -42,3 +42,4 @@ Welcome to CleanCampus, an AI-Powered Solution to prevent littering.
 
 - If you have an NVIDIA-GPU enabled machine, make sure to install the CUDA library to enable GPU inference.
 - Make sure to have `dlib` installed for the `image_recognition` library.
+- Make sure that you are in the same directory as the script that is going to be executed, otherwise you might get a path error, for example, if you are executing the code for detection and tracking, make sure that you are in the directory DetectionAndTracking, according to your terminal.
