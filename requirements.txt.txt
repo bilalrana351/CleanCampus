@@ -1,0 +1,16 @@
+opencv-python
+ultralytics
+torch
+torchvision
+torchaudio
+requests
+pillow
+io
+Flask
+json
+tkinter
+customtkinter
+face_recognition
+numpy
+shutil
+mysql-connector-python
